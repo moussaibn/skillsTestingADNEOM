@@ -6,7 +6,7 @@ Pour tester la fonction « partition » qui prend un paramètre « liste » et u
 de sous liste, où chaque sous liste a au maximum « taille » éléments.
 La fonction se trouve dans le package `org.skils.utils` et on l'utilise comme suit
 ```
-org.skils.utils.ListUtils.partition([1,2,3,4,5], 2) 
+org.skils.utils.org.skills.utils.ListUtils.partition([1,2,3,4,5], 2) 
 ```
 Et retourne
 ```
